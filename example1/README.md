@@ -9,5 +9,5 @@ The project is divided into the following packages and classes:
 
 1. **`com.preprationzone.beans.Vehicle`**: A basic Java class representing a vehicle object.
 2. **`com.preprationzone.config.ProjectConfig`**: This class contains the configuration for the Spring beans.
-3. **`com.preprationzone.Main`**: The entry point of the application where the Spring context is initialized, and beans are retrieved.
+3. **`com.preprationzone.Example2`**: The entry point of the application where the Spring context is initialized, and beans are retrieved.
 
