@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.preprationzone</groupId>
-	<artifactId>sprngboot_1</artifactId>
+	<artifactId>springboot_1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EazyschoolApplication</name>
 	<description>Demo project for Spring Boot</description>
